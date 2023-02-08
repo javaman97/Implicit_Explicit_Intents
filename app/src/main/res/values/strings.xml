@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Implicit_ExplicitIntent</string>
+    <string name="more_about_intent_and_intent_filters">More about Intent and Intent Filters</string>
+    <string name="message">Message</string>
+    <string name="youtube">Youtube</string>
+    <string name="camera">Camera</string>
+    <string name="web">Web</string>
+</resources>
